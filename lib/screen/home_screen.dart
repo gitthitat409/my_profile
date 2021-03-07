@@ -34,11 +34,11 @@ class _HomeScreenState extends State<HomeScreen> {
           items: [
             BottomNavigationBarItem(
               icon: Icon(Icons.people),
-              label: "Profile",
+              label: "ข้อมูลส่วนตัว",
             ),
             BottomNavigationBarItem(
               icon: Icon(Icons.photo_album),
-              label: "Gallery",
+              label: "แกลลอรี่",
             ),
           ],
         ),
